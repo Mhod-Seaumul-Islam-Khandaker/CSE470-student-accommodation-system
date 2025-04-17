@@ -1,0 +1,122 @@
+﻿{
+    "Name": "CSE470-student-accommodation-system",
+    "Type": "Folder",
+    "Children": [
+        {
+            "Name": "backend",
+            "Type": "Folder",
+            "Children": [
+                {
+                    "Name": ".env",
+                    "Type": "File"
+                },
+                {
+                    "Name": "package-lock.json",
+                    "Type": "File"
+                },
+                {
+                    "Name": "package.json",
+                    "Type": "File"
+                },
+                {
+                    "Name": "server.js",
+                    "Type": "File"
+                }
+            ]
+        },
+        {
+            "Name": "frontend",
+            "Type": "Folder",
+            "Children": [
+                {
+                    "Name": "public",
+                    "Type": "Folder",
+                    "Children": [
+                        {
+                            "Name": "favicon.ico",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "index.html",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "logo192.png",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "logo512.png",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "manifest.json",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "robots.txt",
+                            "Type": "File"
+                        }
+                    ]
+                },
+                {
+                    "Name": "src",
+                    "Type": "Folder",
+                    "Children": [
+                        {
+                            "Name": "App.css",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "App.js",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "App.test.js",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "index.css",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "index.js",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "logo.svg",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "reportWebVitals.js",
+                            "Type": "File"
+                        },
+                        {
+                            "Name": "setupTests.js",
+                            "Type": "File"
+                        }
+                    ]
+                },
+                {
+                    "Name": ".gitignore",
+                    "Type": "File"
+                },
+                {
+                    "Name": "package-lock.json",
+                    "Type": "File"
+                },
+                {
+                    "Name": "package.json",
+                    "Type": "File"
+                },
+                {
+                    "Name": "README.md",
+                    "Type": "File"
+                }
+            ]
+        },
+        {
+            "Name": "Get-ProjectStructure.ps1",
+            "Type": "File"
+        }
+    ]
+}
