@@ -1,0 +1,22 @@
+{
+  "name": "cse470-student-accommodation-system",
+  "version": "1.0.0",
+  "description": "A MERN stack web application developed for the CSE470 course, designed to simplify student accommodation management. It supports user roles, property listings, booking features, and secure authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhod-Seaumul-Islam-Khandaker/CSE470-student-accommodation-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhod-Seaumul-Islam-Khandaker/CSE470-student-accommodation-system/issues"
+  },
+  "homepage": "https://github.com/Mhod-Seaumul-Islam-Khandaker/CSE470-student-accommodation-system#readme"
+}
