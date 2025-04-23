@@ -3,6 +3,7 @@
 
 # Ignore log files
 *.log
+*.code-workspace
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
